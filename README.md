@@ -1,6 +1,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandre-laine&show_icons=true&locale=en" alt="alexandre-laine" /></p>
 
-- 🔭 I’m currently working on **decoding the neuronal activity of V1**
+- 🔭 I’m currently working on **decoding V1 activity induced by a visual stimulus**
 
 - 🌱 I’m currently learning **the Neural Code...** 🙃
 
