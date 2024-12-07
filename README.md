@@ -1,9 +1,4 @@
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-<picture>
-  <img src="/metrics.plugin.isocalendar.svg" alt="Calendar">
-</picture>
-<picture>
-  <img src="/metrics.plugin.achievements.svg" alt="Calendar">
-</picture>
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="400">
+  <img src="/metrics.plugin.isocalendar.svg" alt="Calendar" width="500">
+</p>
