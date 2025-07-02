@@ -11,7 +11,7 @@ on:
     branches:
       - master
       - main
-
+  
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
